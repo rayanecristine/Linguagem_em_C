@@ -10,5 +10,5 @@ Seja bem-vindo ao meu cantinho no GitHub 💖🐰
 - ✨ Criando projetos com dedicação.
 
 ## 🌸 Contatos
-📧 [Email](Ane:ane.devv@gmail.com) | 💖 [Instagram](https://instagram.com/seuusuario)
+📧 | 💖 
 
