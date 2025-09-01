@@ -1,4 +1,4 @@
 # 🌸✨ Projetos 🌸✨
-Projetos em C do Básico ao avançado.
+Projetos em C++ do Básico ao avançado.
 
 
