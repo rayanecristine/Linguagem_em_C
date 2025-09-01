@@ -42,9 +42,11 @@ int main(void) {
     char codigo2[10];
     char nome2[100];
     int populacao2;
-    float area2, pib2;
+    float area2;
+    float pib2;
     int pontosTuristicos2;
-    float densidade2, pibPerCapita2;
+    float densidade2;
+    float pibPerCapita2;
    
     //Leitura dos dados 2
     printf("\n=== Cadastro da Carta 2 ===\n");
@@ -67,7 +69,6 @@ int main(void) {
     densidade2 = populacao2 / area2;
     pibPerCapita2 = (pib2 * 1000000000) / populacao2;
 
-
     //Impressão dos dados
     printf("\n--- Carta 1 ---\n");
     printf("Estado: %c\n", estado1);
@@ -81,7 +82,6 @@ int main(void) {
     printf("PIB per Capita: %.2f reais\n", pibPerCapita1);
     printf("~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 
-
     printf("--- Carta 2 ---\n");
     printf("Estado: %c\n", estado2);
     printf("Codigo: %s\n", codigo2);
@@ -93,7 +93,6 @@ int main(void) {
     printf("Densidade Populacional: %.2f hab/km2\n", densidade2);
     printf("PIB per Capita: %.2f reais\n", pibPerCapita2);
     printf("~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
-
 
     return 0;
 }
